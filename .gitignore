@@ -27,3 +27,5 @@ build/
 
 # for jenv users
 .java-version
+*~
+*#
